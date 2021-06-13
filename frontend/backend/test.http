@@ -1,0 +1,7 @@
+POST http://localhost:4000/files
+Content-Type: application/json
+
+{
+    "title":"Mohamad Nur Farihin Bin Abu Bakar",
+    "content":"0000",
+}
